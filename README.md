@@ -1,4 +1,4 @@
-<a href="https://chat.vercel.ai/">
+<a href="#">
   <h1 align="center">Next.js AI Chatbot</h1>
 </a>
 <br/>
