@@ -1,12 +1,6 @@
 <a href="https://chat.vercel.ai/">
   <h1 align="center">Next.js AI Chatbot</h1>
 </a>
-
-<p align="center">
-  <a href="#features"><strong>Features</strong></a> ·
-  <a href="#model-providers"><strong>Model Providers</strong></a> ·
-  <a href="#running-locally"><strong>Running locally</strong></a>
-</p>
 <br/>
 
 ## Features
